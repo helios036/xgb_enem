@@ -1,0 +1,16 @@
+# dados e modelos
+data/
+models/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# quarto
+.documentacao/
+
+# ambiente / segredos
+.env
