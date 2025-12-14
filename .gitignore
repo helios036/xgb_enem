@@ -1,6 +1,5 @@
 # dados e modelos
 data/
-models/
 
 # notebooks
 .ipynb_checkpoints/
